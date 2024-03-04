@@ -1,2 +1,8 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x5Fd0EC6f6327a2A50E48Ea1985a6Ba7340D9A709'
+quorum: 1
 # EMperor-token
 welcome here
